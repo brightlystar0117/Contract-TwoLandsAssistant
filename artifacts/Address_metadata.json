@@ -1,0 +1,46 @@
+{
+	"compiler": {
+		"version": "0.8.19+commit.7dd6d404"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Collection of functions related to the address type",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"anuseansbtmnft.sol": "Address"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"anuseansbtmnft.sol": {
+			"keccak256": "0x793f45efd43cfc0ac9594a6eafcf9ca538a31b38961a732aa168d94b7d794dda",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://aa8480fed07992eee89c8ef16b72eb2083539ea2ebda53a080d54315b84304e6",
+				"dweb:/ipfs/QmToAmZFc8tmnZBKuAdkNsZae2XPDFBmQDpVBK8Y1Mr79v"
+			]
+		}
+	},
+	"version": 1
+}
